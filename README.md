@@ -5,7 +5,7 @@
 - SRN: PES1UG24CS402
 - GitHub Repository: https://github.com/Saikavin-S/PES1UG24CS402-pes-vcs
 
-#### **NOTE:** I did not see `5 commits per phase` but did a commit for each phase. 
+## **NOTE:** I did not see `5 commits per phase` but did a commit for each phase. 
 
 This repository contains a working implementation of PES-VCS, a small local version control system built in C. It stores file contents as hashed objects, builds trees from staged files, records commit history, and updates branch references through a HEAD pointer.
 
